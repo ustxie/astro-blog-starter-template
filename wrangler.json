@@ -14,7 +14,7 @@
 	
   "routes": [
     {
-      "pattern": "shop.example.com",
+      "pattern": "b.091056.xyz",
       "custom_domain": true
     }
   ]
